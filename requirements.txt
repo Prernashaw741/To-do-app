@@ -1,2 +1,4 @@
 django
 djangorestframework
+google-auth==2.36.0
+requests
